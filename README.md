@@ -2,9 +2,12 @@
 
 now and then i make stuff
 
+  
+   
+[![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jango-fx&hide=actionscript&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
-[![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jango-fx&hide=actionscript&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **jango-fx/jango-fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
