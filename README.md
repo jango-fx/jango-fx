@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-now and then i make stuff
+i make stuff now and then
 
   
    
