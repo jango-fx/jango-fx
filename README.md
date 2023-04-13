@@ -1,7 +1,6 @@
 ### 👋 Hi there
 
-i make stuff now and then
-
+handcrafted code, since way back when
   
 <!--
 
