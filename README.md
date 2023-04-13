@@ -1,6 +1,5 @@
-### 👋 Hi there
 
-handcrafted code, since way back when
+> handcrafted code, since way back when
   
 <!--
 
